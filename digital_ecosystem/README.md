@@ -1,0 +1,1 @@
+This project is based on the following scenario. You’ve been asked by a science museum to develop the software for a new exhibit, the Digital Ecosystem, a world of animated, procedural creatures that live in a computer simulation for visitors to enjoy as they enter the museum.
